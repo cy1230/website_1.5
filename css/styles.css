@@ -78,18 +78,18 @@ a:hover {
 
 .cloud-2 {
   position: absolute;
-  left:50px;
-  bottom: 125px;
-  width:350px;
-  height:200px;
+  left:3.125rem;
+  bottom: 7.81rem;
+  width:21.88rem;
+  height:12.5rem;
 }
 
 .cloud-1 {
   position:absolute;
-  right: 15px;
-  top: 80px;
-  width:350px;
-  height:200px;
+  right: 0.938rem;
+  top: 5rem;
+  width:21.88rem;
+  height:12.5rem;
 }
 
 .cloud {
