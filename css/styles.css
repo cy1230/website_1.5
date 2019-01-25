@@ -1,0 +1,207 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'VT323', monospace;
+  color: #40514E;
+
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2.95rem;
+  color: #005792;
+
+}
+
+h2 {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1.5625rem;
+  color: #679186;
+  font-weight:normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Press Start 2P', cursive;
+  color: #679186;
+}
+
+p {
+  line-height: 1.5;
+  font-size: 1.25rem;
+}
+
+hr {
+  width:1.875rem;
+  border: dotted 6px;
+  border-bottom: none;
+  color: #000579;
+  margin:50px auto;
+}
+
+a {
+  font-family: 'VT323', monospace;
+  font-size: 20px;
+  padding: 20px 20px;
+  color: #11999E;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #e3e3e3;
+}
+
+.top-container {
+  position: relative;
+  background-color: #7efaff;
+  padding-top: 50px;
+  height: 450px;
+}
+
+.middle-container {
+  position:relative;
+  margin: 0 auto 0px auto;
+  height: 1590px;
+
+}
+
+.bottom-container {
+  background-color: #7efaff;
+  padding: 40px 0 2px;
+}
+
+.pro {
+  text-decoration: underline;
+  color: blue;
+}
+
+.cloud-2 {
+  position: absolute;
+  left:50px;
+  bottom: 125px;
+  width:350px;
+  height:200px;
+}
+
+.cloud-1 {
+  position:absolute;
+  right: 15px;
+  top: 80px;
+  width:350px;
+  height:200px;
+}
+
+.cloud {
+  border-radius: 100px;
+}
+
+.programmer {
+  font-family: 'Press Start 2P', cursive;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 2.5rem;
+  color: #679186;
+  font-weight:normal;
+}
+
+.me {
+  padding: 0;
+
+}
+
+.skill-2 {
+  width: 220px;
+  height: 152px;
+}
+
+.git-1 {
+  margin-top: 50px;
+  color: #005792;
+}
+
+.git-2 {
+  color: #005792;
+}
+
+
+.skill-row {
+  width: 50%;
+  margin: 3.125rem auto 50px auto;
+  text-align: left;
+}
+
+.skills-1 {
+  width: 37%;
+  float:left;
+  margin-right: 30px;
+
+}
+
+.skills-2 {
+  width: 35%;
+  float:right;
+  margin:0 auto 0 30px;
+}
+
+.me-profile {
+  position:relative;
+  margin: 15px auto 0 auto;
+  width:25rem;
+
+}
+
+.my-skill {
+  margin: 50px 0;
+  padding: 0;
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'VT323', monospace;
+  color: #ffffff;
+  font-size: 25px;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+}
+
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.contact-script {
+  width: 18.75rem;
+  margin:30px auto 60px auto;
+
+}
+
+.copyright {
+  font-size: 0.95rem;
+  padding: 20px;
+  margin: 0px
+}
+
+.hr-2 {
+  margin-top: 125px;
+}
+
+.pro_grammer {
+padding: 20px;
+border-radius: 200px;
+width:300px;
+}
